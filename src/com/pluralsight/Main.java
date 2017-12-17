@@ -3,6 +3,11 @@ package com.pluralsight;
 import java.util.Scanner;
 
 public class Main {
+    /*
+    https://programmingbydoing.com/
+
+    Collatz sequence - Assignment #62
+     */
 
     public static void main(String[] args) {
 	// write your code here
